@@ -6,7 +6,7 @@ The application supports a variety of statistical methods, including non-paramet
 
 ---
 
-<img width="1022" alt="image" src="https://github.com/user-attachments/assets/9a675686-d0f9-4110-9154-92bc3dc5a2c7" />
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/77554d61-98d8-430c-a972-12a1c237b963" />
 
 ## Features
 
