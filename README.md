@@ -10,7 +10,6 @@
 - Filter datasets by gender and age range
 - Specify custom column names for values, age, and gender
 - Automatically detect data skewness and apply:
-  - Non-parametric estimation
   - Box-Cox or modified Box-Cox transformations
 - Visualize reference intervals with confidence bounds
 - Optional export of plots to a user-defined directory
