@@ -6,6 +6,8 @@ The application supports a variety of statistical methods, including non-paramet
 
 ---
 
+![image](https://github.com/user-attachments/assets/f4e48b50-e1b5-47bb-a73a-96321785069d)
+
 ## Features
 
 - **Data Import**: Import measurement data from Excel (`.xlsx`) files.
